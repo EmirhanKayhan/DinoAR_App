@@ -2,7 +2,7 @@
 
 ## Genel Bakış
 
-Bu Unity projesi, AR Foundation kullanarak artırılmış gerçeklik deneyimleri için görüntü takibi uygular. Uygulama, belirlenmiş dinozor görüntülerini algılar ve bu görüntülere uygun 3D dünozor modellerini ve bilgilendirici metinleri gösterir.
+Bu Unity projesi, AR Foundation kullanarak artırılmış gerçeklik deneyimleri için görüntü takibi uygular. Uygulama, belirlenmiş dinozor görüntülerini algılar ve bu görüntülere uygun 3D dinozor modellerini ve bilgilendirici metinleri gösterir.
 
 ## Özellikler
 

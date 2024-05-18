@@ -1,4 +1,4 @@
-# DinoAR Unity AR Görüntü Takip Projesi
+# DinoAR Unity AR Image Tracking Projesi
 
 ## Genel Bakış
 
